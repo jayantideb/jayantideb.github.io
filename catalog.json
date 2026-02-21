@@ -4,7 +4,7 @@
     "version": "74dbd976"
   },
   "products": [
-    {"id":"prod-74dbd976-001","name":"Pro Item 1","category":"books","price":328.49,"stock":9,"rating":3.2},
+    {"id":"prod-74dbd976-001","name":"Pro Item 1","category":"electronics","price":328.49,"stock":9,"rating":3.2},
     {"id":"prod-74dbd976-002","name":"Premium Item 2","category":"electronics","price":304.75,"stock":162,"rating":2.1},
     {"id":"prod-74dbd976-003","name":"Basic Item 3","category":"clothing","price":252.87,"stock":147,"rating":4.7},
     {"id":"prod-74dbd976-004","name":"Basic Item 4","category":"clothing","price":233.93,"stock":189,"rating":2.1},
@@ -26,11 +26,11 @@
       "inventoryValue": 142447.86
     },
     "electronics": {
-      "count": 2,
+      "count": 3,
       "inventoryValue": 57653.840000000004
     },
     "books": {
-      "count": 3,
+      "count": 2,
       "inventoryValue": 79091.02
     }
   }
