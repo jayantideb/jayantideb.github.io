@@ -21,10 +21,10 @@
     { "id": "prod-74dbd976-015", "name": "Elite Item 15", "category": "home", "price": 338.88, "stock": 162, "rating": 3.1 }
   ],
   "aggregations": {
-    "electronics": {
-      "count": 3,
-      "inventoryValue": 57376.840000000004
-    },
+   "electronics": {
+  "count": 3,
+  "inventoryValue": 57653.840000000004
+},
     "clothing": {
       "count": 3,
       "inventoryValue": 142447.86
