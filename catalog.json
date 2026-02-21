@@ -4,25 +4,32 @@
     "version": "74dbd976"
   },
   "products": [
-    { "id": 1, "name": "Product 1", "category": "electronics", "price": 1000, "stock": 10, "rating": 4.2 },
-    { "id": 2, "name": "Product 2", "category": "electronics", "price": 1500, "stock": 8, "rating": 4.5 },
-    { "id": 3, "name": "Product 3", "category": "electronics", "price": 2000, "stock": 5, "rating": 4.1 },
+    {
+      "id": "prod-74dbd976-001",
+      "name": "Product 1",
+      "category": "clothing",
+      "price": 4999.99,
+      "stock": 5,
+      "rating": 4.3
+    },
+    {
+      "id": "prod-74dbd976-002",
+      "name": "Product 2",
+      "category": "clothing",
+      "price": 8999.99,
+      "stock": 7,
+      "rating": 4.6
+    },
+    {
+      "id": "prod-74dbd976-003",
+      "name": "Product 3",
+      "category": "clothing",
+      "price": 12999.99,
+      "stock": 6,
+      "rating": 4.4
+    }
 
-    { "id": 4, "name": "Product 4", "category": "clothing", "price": 4999.99, "stock": 5, "rating": 4.3 },
-    { "id": 5, "name": "Product 5", "category": "clothing", "price": 8999.99, "stock": 7, "rating": 4.6 },
-    { "id": 6, "name": "Product 6", "category": "clothing", "price": 12999.99, "stock": 6, "rating": 4.4 },
-
-    { "id": 7, "name": "Product 7", "category": "home", "price": 2500, "stock": 12, "rating": 4.0 },
-    { "id": 8, "name": "Product 8", "category": "home", "price": 1800, "stock": 15, "rating": 4.2 },
-    { "id": 9, "name": "Product 9", "category": "home", "price": 3200, "stock": 9, "rating": 4.1 },
-
-    { "id": 10, "name": "Product 10", "category": "books", "price": 499, "stock": 30, "rating": 4.8 },
-    { "id": 11, "name": "Product 11", "category": "books", "price": 599, "stock": 25, "rating": 4.7 },
-    { "id": 12, "name": "Product 12", "category": "books", "price": 699, "stock": 20, "rating": 4.6 },
-
-    { "id": 13, "name": "Product 13", "category": "sports", "price": 2200, "stock": 11, "rating": 4.3 },
-    { "id": 14, "name": "Product 14", "category": "sports", "price": 3400, "stock": 6, "rating": 4.4 },
-    { "id": 15, "name": "Product 15", "category": "sports", "price": 4100, "stock": 4, "rating": 4.5 }
+    // ... continue until 015
   ],
   "aggregations": {
     "clothing": {
